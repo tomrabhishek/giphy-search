@@ -1,6 +1,9 @@
 # giphy
 
-A new Flutter project.
+A demo gif search project in flutter using giphy api, implemented it during some online competition.. it has the following features:
+ - search gif from keywords
+ - infinite scroll
+ - dark mode
 
 ## Getting Started
 
